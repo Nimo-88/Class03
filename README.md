@@ -1,4 +1,4 @@
-# Class03 Revisions and the Cloud 
+# Revisions and the Cloud 
 
 **Git** is a version control system for tracking code changes locally. 
 
