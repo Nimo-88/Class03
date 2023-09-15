@@ -1,12 +1,17 @@
 # Class03 Revisions and the Cloud 
 
+**Git** is a version control system for tracking code changes locally. 
+
+**GitHub** is a web platform that hosts Git repositories and adds collaboration and project management features in the cloud.
+
 1. ## What is Version Control?
 
 > **Version Control:** is software used to track and manage changes in code, facilitating collaboration among developers and providing a history of code changes. 
 
 2. ### What is cloning in Git?
 
-> **clone** *in Git means* making a local copy of a remote code repository for editing and collaboration. 
+> **clone** *in Git means* making a local copy of a remote code repository for editing and collaboration.
+> Get Clone is a command that is going to take the repository that you copied the link with the green code button on GitHub.
 
 3. ### What is the command to track and stage files?
 
